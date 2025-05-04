@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411934498631",
+    "project_id": "apms-6f88c",
+    "storage_bucket": "apms-6f88c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411934498631:android:07a84bb5c936ed16b67662",
+        "android_client_info": {
+          "package_name": "com.example.apms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWk0sZnji0SZGP6QXijapQiPYs_eHxyn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
